@@ -24,7 +24,7 @@ In this article, we’ll walk through the two types of Dynamics 365 Remote Assis
     
 ## Prerequisites 
 
-- Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). For more information, [learn more about admin permission](/office365/admin/admin-overview/admin-overview?view=o365-worldwide). 
+- Your organization must have a Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). For more information, [learn more about admin permission](/office365/admin/admin-overview/admin-overview?view=o365-worldwide). 
 
 ## Option 1: Dynamics 365 Remote Assist license 
 
